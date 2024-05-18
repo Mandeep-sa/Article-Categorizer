@@ -1,10 +1,13 @@
 # Article-Categorizer
-### Machine Learning, NLP
 
-•Trained an ML model using TF-IDF vectorization to classify articles into multiple distinct categories.
+Problem Statement- Investment Banks and Financial Advisory Firms have to read through tons of financial articles everyday to keep themselves updated about the financial market.
 
-•Used Random Forest classifier to yield a remarkable accuracy of 96.76%.
+Solution- This ML model uses Natural Language Processing techniques to classify financial articles into various categories. Ensemble methods are used to finally classify the article. Removed English stop words and used TF-IDF Vectorization to tokenize words. Also tried different Natural Language technquies like Lemmatization and Stemming.
 
-•Implemented cutting-edge natural language processing techniques to enhance article categorization efficiency.
+## Tech Stack
+Python, Machine Learning, Random Forest, TF-IDF Vectorizer
 
-•Tried different Natural Language technquies like Lemmatization and Stemming.
+## Libraries Used
+NumPy, Pandas, Scikit-learn, Seaborn
+
+
